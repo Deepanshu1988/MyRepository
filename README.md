@@ -1,2 +1,2 @@
 # MyRepository
-This is my first repository. Author - Deepanshu Shukla
+This is my first repository. <br> Author - Deepanshu Shukla
